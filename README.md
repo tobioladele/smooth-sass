@@ -5,7 +5,7 @@ Smooth sass is  another CSS toolkit. It’s basically a collection of the classe
 
 #Documentation
 
-The documentation for smooth sass currently lives here: http://tobioladele.com/smooth-sass
+The documentation for smooth sass currently lives here: http://tobioladele.github.io/smooth-sass/
 It is divided into two versions.
 
 #Developement version
