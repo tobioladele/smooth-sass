@@ -1,0 +1,14 @@
+// ============================================
+//Text Transforms
+// ============================================
+.uppercase        { text-transform: uppercase; }
+.lowercase        { text-transform: lowercase; }
+.capitalize       { text-transform: capitalize; }
+.italic           { font-style: italic; }
+.underline        { text-decoration: underline; }
+.no-underline     { text-decoration: none; }
+.list-style-none  { list-style-type: none; }
+
+.thin    {font-weight: 200; }
+.regular {font-weight: 400; }
+.bold    {font-weight: 700; }
