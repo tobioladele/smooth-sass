@@ -1,7 +1,7 @@
 # Smooth sass
 #### A collection of sass classes
 
-Smooth sass is  another CSS toolkit. It’s basically a collection of the classes I find [myself](http://tobioladele.com) using in all of my projects. I made it to speed up development time and make relatively reduce the amount of css i have to write.
+Smooth sass is  another CSS toolkit. It’s basically a modularized collection of css classes I find [myself](http://tobioladele.github.io) using in all of my projects. I made it to speed up development time and relatively reduce the amount of css i have to write.
 
 #Documentation
 
@@ -10,7 +10,7 @@ It is divided into two versions.
 
 #Developement version
 
-This is the minified and compiled version of smooth-sass. All the different categories have been imported into one sass file (smooth_sass.scss).It basically for those who want to go straight into development.
+This is the minified and compiled version of smooth-sass. All the different modules have been imported into one sass file (smooth_sass.scss).It is basically for those who want to go straight into development.
 
 #Production version
 
