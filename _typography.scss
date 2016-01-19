@@ -1,4 +1,4 @@
-// ============================================
+// ===========================================
 // Font Families
 // ============================================
 
@@ -13,6 +13,7 @@ $primary-color: #333;
 .capitalize       { text-transform: capitalize; }
 .italic           { font-style: italic; }
 .underline        { text-decoration: underline; }
+.line-through     {text-decoration: line-through; }
 .no-underline     { text-decoration: none; }
 .list-style-none  { list-style-type: none; }
 
@@ -54,12 +55,8 @@ $primary-color: #333;
 //  Font size
 //====================================================
 
-fs-medium   { font-size: medium; }
-.fs-xx-small { font-size: xx-small; }
-.fs-x-small  { font-size: x-small; }
+.f-s-md   { font-size: medium; }
 .fs-small    { font-size: small; }
-.fs-large    { font-size: large; }
-.fs-x-large  { font-size: x-large; }
-.fs-xx-large { font-size: xx-large; }
-.fs-smaller  { font-size: smaller; }
-.fs-larger   { font-size: larger; }
+.f-s-xs  { font-size: x-small; }
+.f-s-lg    { font-size: large; }
+.f-s-xl  { font-size: x-large; }
