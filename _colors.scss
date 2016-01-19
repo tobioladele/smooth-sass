@@ -1,0 +1,26 @@
+//====================================================
+//  Colors
+//====================================================
+
+$brand-primary: #3676C8;
+$brand-info: #2D91D9;
+$brand-success: #11A04E;
+$brand-warning: #fad733;
+$brand-danger: #f05050;
+$brand-light: #edf1f2;
+$brand-dark: #194167;
+$brand-black: #27517d;
+
+//====================================================
+//  Background Colors
+//====================================================
+
+.bg-primary      { background-color: $brand-primary; }
+.bg-info       { background-color: $brand-info; }
+.bg-success      { background-color: $brand-success; }
+.bg-warning   { background-color: $brand-warning; }
+.bg-danger        { background-color: $brand-danger; }
+.bg-light     { background-color: $brand-light; }
+.bg-dark    { background-color: $brand-dark; }
+.bg-black       { background-color: $brand-black; }
+.bg-transparent { background-color: transparent; }
