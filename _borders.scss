@@ -1,0 +1,25 @@
+//====================================================
+//  Borders
+//====================================================
+
+$border-style: solid !default;
+$border-color: rgba(0,0,0,0.1) !default;
+$border-radius: 3px !default;
+
+.b  { border: 1px $border-style $border-color; }
+.b-a { border: 1px $border-style $border-color; }
+.b-t { border-top: 1px $border-style $border-color; }
+.b-r { border-right: 1px $border-style $border-color; }
+.b-b  { border-bottom: 1px $border-style $border-color; }
+.b-l { border-left: 1px $border-style $border-color;  }
+.font-danger { color: red; }
+.b-light  { border-color: $brand-light; }
+.b-dark { border-color: darken($border-color, 5%)  }
+.b-black  { border-color: $brand-dark; }
+.b-primary { border-color: $brand-primary; }
+.b-success { border-color: $brand-success; }
+.b-info { border-color: $brand-info; }
+.b-warning { border-color: $brand-warning; }
+.b-danger { border-color: $brand-danger; }
+.b-white  { border-color: #fff; }
+.b-dashed { border-style: dashed !important; }
